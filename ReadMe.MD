@@ -16,14 +16,14 @@ A modern, responsive Real Estate application showcasing dynamic property listing
 
 To run this project locally:
 
-```bash
-git clone https://github.com/your-username/real-estate-app.git
-cd real-estate-app
-npm install
-npm run dev
-
 ## Author
 Titiksha Chakraborty
 👩‍💻 Frontend Developer | Passionate about building elegant and performant web apps.
 
 Feel free to reach out on LinkedIn or check out more of my work on GitHub.
+
+```bash
+git clone https://github.com/your-username/real-estate-app.git
+cd real-estate-app
+npm install
+npm run dev
