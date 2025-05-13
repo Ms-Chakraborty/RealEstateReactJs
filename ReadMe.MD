@@ -21,6 +21,7 @@ git clone https://github.com/your-username/real-estate-app.git
 cd real-estate-app
 npm install
 npm run dev
+```bash
 
 Author
 Titiksha Chakraborty
